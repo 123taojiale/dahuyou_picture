@@ -1,0 +1,3 @@
+https://api.uone.one/wb/api.php?uid=
+
+https://api.uone.one/qq/api.php?qq=
